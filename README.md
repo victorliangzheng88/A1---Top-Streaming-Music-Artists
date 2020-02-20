@@ -25,6 +25,16 @@ These are the steps to compile `A1.java` and run the program `A1`. Source code i
 5. Compile the java file using the java compiler command `javac A1.java`
 6. Run the compiled java program with the java command `java A1`
 
+Another way to run the program is to use the integrated development environment (IDE), eclipse.
+
+1. Download and Install Java, and Eclipse if the programs are not yet installed.
+2. Go to https://github.com/victorliangzheng88/A1---Top-Streaming-Music-Artists.git using web browser.
+3. Download the files in the folder called `data` and `src` and save them into the same folder in your computer.
+4. Open eclipse after installed and click File on the left top corner and click Open File.
+5. Choose the file name of `A1.java` and click Open.
+6. Create two txt files, one called `List.txt` and the second called `SortedList.txt` and save them into the same file with `A1.java`. 
+7. Click Run.
+
 You should see an output similar to the following:
 
 ```sh
