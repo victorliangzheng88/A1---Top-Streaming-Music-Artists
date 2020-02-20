@@ -38,8 +38,6 @@ Another way to run the program is to use the integrated development environment 
 You should see an output similar to the following:
 
 ```sh
-$ javac A1.java
-$ java A1
 Artist -- Times Appeared: 1
 "Demi Lovato" -- Times Appeared: 1
 "Jack Harlow" -- Times Appeared: 1
